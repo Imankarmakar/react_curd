@@ -27,6 +27,7 @@ const Register = () => {
   return (
     <>
       <form onSubmit={handleSubmit}>
+        <h1>hii</h1>
         <div class='form-group'>
           <label for='exampleInputEmail1'>Name</label>
           <input
